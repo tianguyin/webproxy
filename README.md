@@ -50,4 +50,4 @@ high:
 ***log日志规则***
 
 ***cli模式仅打印日志，save模式一定要指定log_path的路径***
-***<u>AWDP中可以采用此方案检测payload并且添加waf</u>***
+***AWDP中可以采用此方案检测payload并且添加waf***
