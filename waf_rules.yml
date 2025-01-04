@@ -1,0 +1,26 @@
+low:
+  allow:
+    agent:
+      - ".*"
+    body:
+      - ".*"
+    url:
+      - ".*"
+  disallow:
+    agent:
+      - "curl"
+    body:
+      - "test"
+      - "malicious"
+    url:
+      - "/api/restricted"
+high:
+  disallow:
+    agent:
+    body:
+    url:
+  allow:
+    agent:
+    url:
+    body:
+      - "testhight"
