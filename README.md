@@ -1,4 +1,4 @@
-# webproxy
+# 轻量反向代理服务器
 ```cmd
 Commands:
   proxy      Run the proxy server
