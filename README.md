@@ -43,6 +43,10 @@ high:
       - "testhight"
 ```
 
-waf高级规则
+***waf高级规则***
 
-当low中disallow `关键词时` 但是high中allow包含`包含关键词的规则`按照high中allow
+***当low中disallow `关键词时` 但是high中allow包含`包含关键词的规则`按照high中allow***
+
+***log日志规则***
+
+***cli模式仅打印日志，save模式一定要指定log_path的路径***
