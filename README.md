@@ -1,4 +1,5 @@
 # 轻量反向代理服务器
+单awdp可以只下载v1版本。目前v1版本就是专门为了awdp的web设计的。
 ```cmd
 Commands:
   proxy      简单反向代理
